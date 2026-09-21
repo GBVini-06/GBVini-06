@@ -16,16 +16,6 @@
 
 ## 🚀 Sobre mim
 
-```javascript
-const gabrielCavalcanti = {
-    localizacao: "Brasil 🇧🇷",
-    foco: "Desenvolvimento Web",
-    objetivo: "Criar soluções escaláveis e de alta qualidade",
-    caracteristica: "Sempre em busca de novos desafios e aprendizado",
-    portfolio: "https://portfolio-gabrielc.netlify.app"
-};
-```
-
 Sou desenvolvedor com foco em desenvolvimento web, sempre buscando aprender novas tecnologias e melhorar minhas habilidades. Gosto de trabalhar em projetos desafiadores que me permitem crescer profissionalmente.
 
 <br/>
